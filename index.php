@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
+<head>
+<titel>Cockgenerator</titel>
+</head>
 <body>
-
+<h1>Random Cock Generator</h1>
 <?php
 class Cock {
   public $length;
